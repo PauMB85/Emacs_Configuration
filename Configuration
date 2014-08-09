@@ -1,9 +1,9 @@
-/***********************************************************
-* Author: PauMB                                            *
-* Program: Emacs configuration                             *
-* Created: 03/06/2014                                      *
-* Company: HedaSoft                                        *
-***********************************************************/
+;/***********************************************************
+;* Author: PauMB                                            *
+;* Program: Emacs configuration                             *
+;* Created: 03/06/2014                                      *
+;* Company: HedaSoft                                        *
+;***********************************************************/
 
 (add-to-list 'load-path "~/.emacs.d/")
 (require 'auto-complete-config)
